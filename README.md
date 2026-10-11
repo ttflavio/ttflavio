@@ -1,38 +1,52 @@
-# Olá, eu sou o Flávio 👋
+# Hi, I'm Flávio 👋
 
-Formado em Análise e Desenvolvimento de Sistemas, estou construindo minha trajetória em **dados full stack** — desde a extração e modelagem até a entrega de insights via dashboards e APIs. Atualmente em busca da minha primeira oportunidade na área de dados. 🚀
+I'm a Systems Analysis and Development graduate based in João Pessoa, Brazil, pursuing a junior opportunity in software development.
 
-## 🔭 No que estou trabalhando agora
+My background includes IT support in educational settings and an academic full stack development internship. My projects explore web development, relational databases and data analysis.
 
-Estou desenvolvendo projetos práticos cobrindo todo o pipeline de dados: ingestão de APIs públicas, modelagem em banco relacional, transformação com Python e visualização. Acompanhe o progresso nos repositórios fixados abaixo.
+## 💻 Technical Background
 
-## 🧰 Stack
+- **Project experience:** Python, SQL/MySQL, PHP, HTML and CSS.
+- **Data analysis:** Pandas, Matplotlib and Power BI.
+- **Academic exposure:** Ruby, Java, JavaScript, Ruby on Rails, Sinatra, React, Angular and Node.js.
+- **Additional academic topics:** object-oriented programming, REST APIs, HTTP, JSON, Git, PostgreSQL, SQLite, Docker, Linux, AWS, RSpec, unit testing and TDD.
 
-**Linguagens & Dados**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 📌 Featured Projects
 
-**Visualização & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### [Raimundo's Madeiras](https://github.com/ttflavio/raimundos_artesanato)
+A website for a handmade wooden products business, built with **HTML and CSS**.
 
-**Web & Outros**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- Product catalog with images and prices.
+- Section navigation and responsive styling.
+- WhatsApp contact links.
 
-## 📌 Projetos em destaque
+### [Film Review Website](https://github.com/ttflavio/meusite)
+A web development project built with **PHP and HTML**.
 
-- 🔹 **[Workshop de Análise de Dados](https://github.com/ttflavio/Workshop.Analise-de-dados)** — exercícios práticos de MySQL, ETL com Python e Power BI.
+- Film review and informational pages.
+- Reusable page templates.
+- Contact form with server-side reading and display of POST data.
 
-🚧 Novos projetos a caminho, cobrindo o pipeline completo de dados (extração de API → banco → dashboard/API). Volte em breve!
+### [Data Analysis Workshop](https://github.com/ttflavio/Workshop.Analise-de-dados)
+Practical exercises involving **Python, Pandas, Matplotlib, MySQL and Power BI**.
 
-## 📈 Sobre minha jornada
+- Exploratory analysis of HR data and chart creation.
+- Relational database modeling for a retail store.
+- SQL tables, primary and foreign keys, and sample data.
 
-Estou revisando e aprofundando fundamentos de SQL e Python, aprendendo Docker, Postgres e construção de APIs com FastAPI, para entregar uma visão completa do ciclo de vida do dado — do bruto ao insight.
+## 🌱 Development Goals
 
-## 📫 Como me encontrar
+I'm focused on strengthening my programming fundamentals, building maintainable web applications and expanding my backend development skills.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-netto)
+I'm particularly interested in Ruby-based backend development and opportunities to learn through collaboration with an engineering team.
 
----
-⭐ Se algum projeto te interessar, fico feliz com uma estrela!
+## 📫 Contact
+
+- **Email:** ttflavio@icloud.com
+- **LinkedIn:** [flavio-netto](https://www.linkedin.com/in/flavio-netto)
+- **GitHub:** [ttflavio](https://github.com/ttflavio)
+
+## 🌍 Languages
+
+Portuguese — Native  
+English — Intermediate
