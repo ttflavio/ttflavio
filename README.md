@@ -1,52 +1,82 @@
-# Hi, I'm Flávio 👋
+# Olá! Eu sou Flávio 👋
 
-I'm a Systems Analysis and Development graduate based in João Pessoa, Brazil, pursuing a junior opportunity in software development.
+Sou formado em **Análise e Desenvolvimento de Sistemas**, moro em João Pessoa (PB) e estou em busca de oportunidades como Desenvolvedor de Software Júnior.
 
-My background includes IT support in educational settings and an academic full stack development internship. My projects explore web development, relational databases and data analysis.
+Tenho formação acadêmica em desenvolvimento de software, experiência com suporte de TI e estágio acadêmico em desenvolvimento Full Stack. Atualmente, estou focado em aprimorar meus conhecimentos em programação e desenvolver projetos práticos.
 
-## 💻 Technical Background
+## 💻 Conhecimentos técnicos
 
-- **Project experience:** Python, SQL/MySQL, PHP, HTML and CSS.
-- **Data analysis:** Pandas, Matplotlib and Power BI.
-- **Academic exposure:** Ruby, Java, JavaScript, Ruby on Rails, Sinatra, React, Angular and Node.js.
-- **Additional academic topics:** object-oriented programming, REST APIs, HTTP, JSON, Git, PostgreSQL, SQLite, Docker, Linux, AWS, RSpec, unit testing and TDD.
+**Programação e Desenvolvimento Web**
+- Python, PHP, HTML e CSS
+- SQL e MySQL
+- Java e JavaScript (experiência acadêmica)
 
-## 📌 Featured Projects
+**Análise de Dados**
+- Pandas e Matplotlib
+- Power BI
+
+**Ferramentas e Tecnologias**
+- Git e GitHub
+- Visual Studio Code
+- PostgreSQL e SQLite
+
+**Experiência acadêmica complementar**
+
+Ruby, Ruby on Rails, Sinatra, React, Angular, Node.js, APIs REST, Docker e Linux.
+
+## 📌 Projetos em destaque
+
+### [Sistema de Autorização por Saldo](https://github.com/ttflavio/autorizacao-lavanderia)
+
+Projeto desenvolvido em Python para simular a autorização de serviços com base no saldo disponível.
+
+- Validação de dados de entrada e regras de negócio.
+- Lógica de autorização e recusa de operações.
+- Testes de diferentes cenários para verificar os resultados esperados.
 
 ### [Raimundo's Madeiras](https://github.com/ttflavio/raimundos_artesanato)
-A website for a handmade wooden products business, built with **HTML and CSS**.
 
-- Product catalog with images and prices.
-- Section navigation and responsive styling.
-- WhatsApp contact links.
+Site desenvolvido com HTML e CSS para um negócio de produtos artesanais em madeira.
+
+- Catálogo de produtos com imagens e preços.
+- Navegação entre seções e layout responsivo.
+- Links de contato pelo WhatsApp.
 
 ### [Film Review Website](https://github.com/ttflavio/meusite)
-A web development project built with **PHP and HTML**.
 
-- Film review and informational pages.
-- Reusable page templates.
-- Contact form with server-side reading and display of POST data.
+Projeto de desenvolvimento web utilizando PHP e HTML.
 
-### [Data Analysis Workshop](https://github.com/ttflavio/Workshop.Analise-de-dados)
-Practical exercises involving **Python, Pandas, Matplotlib, MySQL and Power BI**.
+- Páginas de informações e avaliações de filmes.
+- Estrutura de páginas reutilizáveis.
+- Formulário de contato utilizando dados POST.
 
-- Exploratory analysis of HR data and chart creation.
-- Relational database modeling for a retail store.
-- SQL tables, primary and foreign keys, and sample data.
+### [Workshop de Análise de Dados](https://github.com/ttflavio/Workshop.Analise-de-dados)
 
-## 🌱 Development Goals
+Exercícios práticos envolvendo Python, Pandas, Matplotlib, MySQL e Power BI.
 
-I'm focused on strengthening my programming fundamentals, building maintainable web applications and expanding my backend development skills.
+- Análise exploratória e visualização de dados.
+- Modelagem de banco de dados relacional.
+- Criação de tabelas, chaves primárias e estrangeiras.
 
-I'm particularly interested in Ruby-based backend development and opportunities to learn through collaboration with an engineering team.
+## 🎓 Formação e Experiência
 
-## 📫 Contact
+- **Análise e Desenvolvimento de Sistemas** — Conclusão em janeiro de 2026.
+- **Mediação de Tecnologia / Suporte de TI** — Experiência com suporte ao uso de tecnologias em ambiente educacional.
+- **Estágio em Desenvolvimento Full Stack** — Experiência acadêmica com desenvolvimento de software.
 
-- **Email:** ttflavio@icloud.com
+## 🌱 Em desenvolvimento
+
+Estou focado em fortalecer minha lógica de programação, aprimorar minhas habilidades em desenvolvimento backend, escrever códigos mais organizados e construir projetos que resolvam problemas reais.
+
+Tenho interesse em engenharia de software, desenvolvimento backend e oportunidades de crescimento e colaboração em equipes de tecnologia.
+
+## 📫 Contato
+
+- **E-mail:** [ttflavio@icloud.com](mailto:ttflavio@icloud.com)
 - **LinkedIn:** [flavio-netto](https://www.linkedin.com/in/flavio-netto)
 - **GitHub:** [ttflavio](https://github.com/ttflavio)
 
-## 🌍 Languages
+## 🌍 Idiomas
 
-Portuguese — Native  
-English — Intermediate
+- Português — Nativo
+- Inglês — Avançado
