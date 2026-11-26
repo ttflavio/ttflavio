@@ -2,14 +2,39 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**, moro em João Pessoa (PB) e estou em busca de oportunidades como Desenvolvedor de Software Júnior.
 
-Tenho formação acadêmica em desenvolvimento de software, experiência com suporte de TI e estágio acadêmico em desenvolvimento Full Stack. Atualmente, estou focado em aprimorar meus conhecimentos em programação e desenvolver projetos práticos.
+Tenho formação acadêmica em desenvolvimento de software, experiência com suporte de TI e estágio acadêmico em desenvolvimento Full Stack. Hoje desenvolvo sistemas para clientes reais: uma plataforma de gestão de flats de temporada e o design system, o site e o sistema de gestão de uma clínica de estética.
+
+<p>
+  <img src="assets/flavio-trabalhando.jpg" alt="Flávio trabalhando no notebook" width="49%">
+  <img src="assets/flavio-telas.jpg" alt="Painel do GitHub e terminal com o build do sistema" width="49%">
+</p>
+
+## 🚀 Projetos atuais
+
+### [MyFlat](https://github.com/ttflavio/myflat)
+
+Gestão de imóveis de temporada, em uso por uma administradora com 6 flats.
+
+- Calendário único com reservas de todos os canais. O banco **impede overbooking** com constraint de exclusão do PostgreSQL, testada com 20 reservas simultâneas.
+- Multi-tenant, login próprio com papéis e permissões e pendências por flat com IA (Claude API).
+- Next.js 16, React 19, TypeScript, Prisma 7, PostgreSQL, Tailwind 4 e Vitest, com 58 testes.
+
+### [Instituto Vivanti](https://github.com/ttflavio/vivanti)
+
+Design system, site e sistema de gestão de uma clínica de estética.
+
+- **Design system** em React + TypeScript com 46 componentes para Instagram e três marcas.
+- **Site institucional** em React + Vite + Tailwind, pré-renderizado para SEO.
+- **Sistema de gestão** em Java 21 + Spring Boot 3 + PostgreSQL: agenda, prontuário, financeiro, estoque e um robô de IA no WhatsApp. Roda em Docker num VPS.
 
 ## 💻 Conhecimentos técnicos
 
 **Programação e Desenvolvimento Web**
+- TypeScript, JavaScript, React e Next.js
+- Java e Spring Boot
 - Python, PHP, HTML e CSS
-- SQL e MySQL
-- Java e JavaScript (experiência acadêmica)
+- SQL, PostgreSQL e MySQL
+- Prisma, Docker e integração com APIs de IA (Claude)
 
 **Análise de Dados**
 - Pandas e Matplotlib
@@ -24,7 +49,7 @@ Tenho formação acadêmica em desenvolvimento de software, experiência com sup
 
 Ruby, Ruby on Rails, Sinatra, React, Angular, Node.js, APIs REST, Docker e Linux.
 
-## 📌 Projetos em destaque
+## 📌 Outros projetos
 
 ### [Sistema de Autorização por Saldo](https://github.com/ttflavio/autorizacao-lavanderia)
 
