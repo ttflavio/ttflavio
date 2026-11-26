@@ -4,10 +4,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, moro em João Pessoa 
 
 Tenho formação acadêmica em desenvolvimento de software, experiência com suporte de TI e estágio acadêmico em desenvolvimento Full Stack. Hoje desenvolvo sistemas para clientes reais: uma plataforma de gestão de flats de temporada e o design system, o site e o sistema de gestão de uma clínica de estética.
 
-<p>
-  <img src="assets/flavio-trabalhando.jpg" alt="Flávio trabalhando no notebook" width="49%">
-  <img src="assets/flavio-telas.jpg" alt="Painel do GitHub e terminal com o build do sistema" width="49%">
-</p>
+
 
 ## 🚀 Projetos atuais
 
