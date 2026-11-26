@@ -27,6 +27,25 @@ Design system, site e sistema de gestão de uma clínica de estética.
 - **Site institucional** em React + Vite + Tailwind, pré-renderizado para SEO.
 - **Sistema de gestão** em Java 21 + Spring Boot 3 + PostgreSQL: agenda, prontuário, financeiro, estoque e um robô de IA no WhatsApp. Roda em Docker num VPS.
 
+## 🤖 IA generativa e automação
+
+Estudo IA aplicando nos meus projetos: cada recurso de IA que construo resolve um problema real de um cliente e vai para produção com testes, controle de custo e revisão humana.
+
+**IA dentro dos produtos (LLMs e Claude API)**
+- **Saídas estruturadas:** no MyFlat, um texto livre ("chuveiro do 204 antes do próximo check-in; duas toalhas pro 319") vira tarefas validadas por um schema Zod. O servidor confere cada resultado, e o que a IA não tem certeza vai para triagem humana ([decisão documentada](https://github.com/ttflavio/myflat/blob/main/docs/adr/0005-pendencias-com-ia.md)).
+- **Agente com ferramentas (tool use / function calling):** o robô de WhatsApp do Instituto Vivanti consulta horários livres reais na agenda, registra pré-reservas para a recepção confirmar e passa a conversa para a equipe quando precisa.
+- **Uso responsável:** a IA fica desligada até ser habilitada, sempre há um caminho manual, os testes simulam a IA, as chaves ficam fora do código, e o sistema da clínica tem aceite LGPD e registro de quem acessa cada prontuário.
+
+**Automação de processos**
+- Integração com a WhatsApp Cloud API e o Instagram da Meta por webhooks, com aviso antes de o acesso vencer.
+- CI/CD com GitHub Actions e deploy automático (Netlify, Docker num VPS), backup agendado do banco.
+- Scripts que automatizam o trabalho repetitivo, como o que gera a versão pública destes repositórios e confere que nenhum dado de cliente vaza.
+
+**Desenvolvimento assistido por IA**
+- Uso o Claude Code no dia a dia, como par de programação: planejar arquitetura, escrever e revisar código, rodar testes e documentar decisões (ADRs).
+- Crio skills e fluxos reutilizáveis para o agente, como o que planeja, escreve e gera carrosséis de Instagram.
+- Engenharia de prompt e de contexto: as instruções do agente e do robô de WhatsApp ficam versionadas no repositório, junto com o código.
+
 ## 💻 Conhecimentos técnicos
 
 **Programação e Desenvolvimento Web**
@@ -34,7 +53,12 @@ Design system, site e sistema de gestão de uma clínica de estética.
 - Java e Spring Boot
 - Python, PHP, HTML e CSS
 - SQL, PostgreSQL e MySQL
-- Prisma, Docker e integração com APIs de IA (Claude)
+- Prisma, Docker e GitHub Actions
+
+**IA e Automação**
+- LLMs e Claude API: saídas estruturadas, tool use e agentes
+- Engenharia de prompt e desenvolvimento assistido por IA (Claude Code)
+- WhatsApp Cloud API, webhooks e integrações com a Meta
 
 **Análise de Dados**
 - Pandas e Matplotlib
